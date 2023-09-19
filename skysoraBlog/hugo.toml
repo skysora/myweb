@@ -1,0 +1,11 @@
+baseURL = 'http://skysora.github.io'
+languageCode = 'en-us'
+title = "Sora's Blog"
+
+theme="hugo-theme-stack"
+
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[params.sidebar]
+    subtitle = "what doesn't kill you makes you stronger"
