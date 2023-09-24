@@ -1,14 +1,13 @@
 ---
-title: [Hugo+Github server]
+title: Hugo+Github server
 description: 利用Hugo建置靜態網頁放置在Github server上
-date: 2023-09-21 19::36+0000
+date: 2023-09-21 
 image: cover.jpg
 categories:
     - Web
 tags:
     - Web
     - 素材
-weight: 2       # You can add weight to some posts to override the default sorting (date descending)
 ---
 #  利用Hugo建置靜態網頁放置在Github server上
 

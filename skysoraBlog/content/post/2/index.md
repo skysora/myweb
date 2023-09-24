@@ -1,23 +1,23 @@
 ---
-title: [機器學習面試題目]
+title: 機器學習面試題目
 description: 機器學習面試被問到的題目
-date: 2023-09-22 15::07+0000
+date: 2023-09-22
 image: 2.jpg
 categories:
     - 機器學習
     - 題目
 tags:
     - 題目
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-#  利用Hugo建置靜態網頁放置在Github server上
+#  
 
 ## 結果
 * 職務類別:機器識別研發工程師
 * 2 hours
 * 很多都回答不出來硬回答
 * 在面試前要多複習，不要都只會用
+* leetcode 1*easy 1*Medium
 
 ### 1.Batch Normalization 和一般 Normalization 差別
 * Google 於 2015 年提出了 Batch Normalization 的方法，和輸入數據先做 feature scaling 再進行網路訓練的方法類似。在輸入數據時，通常都會先將 feature 做 normalize 後再進行訓練，可以加速模型收斂；而 Batch Normalization 就是指在每一層輸入都做一次 normalize
