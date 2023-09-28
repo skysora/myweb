@@ -15,7 +15,6 @@ tags:
 
 ## 結論
 
-### Inline Markdown within tables
 
 功能| Azure   | GCP     | AWS   | Vocol   |
 --------| --------  | -------- | ------ |------ |
