@@ -19,7 +19,7 @@ tags:
 
 ## 建置步驟
 
-### 1.下載需要的檔案，並啟動
+### 下載需要的檔案，並啟動
 
 ```bash
 
@@ -29,7 +29,7 @@ tags:
 
 ```
 
-### 2.建立DataScoure
+### 建立DataScoure
 
 - meau->Connections->Data sources->Add new data source->prometheus
 - 在Prometheus server URL，輸入<你的url>:9090 
@@ -38,7 +38,7 @@ tags:
 
 ![Image 1](step2.png)
 
-### 2.建立Dashboard
+### 建立Dashboard
 - 可依照喜好和使用的模組到https://grafana.com/grafana/dashboards/選擇喜歡的dashboards
 - 本教學使用三個模組分別為node_exporter、cadvisor、nvidia_gpu_exporter
     - node_exporter蒐集server基本資源，Ex：CPU、Memory、Network。參考模板：https://grafana.com/grafana/dashboards/1860-node-exporter-full/
@@ -51,7 +51,7 @@ tags:
 - 點擊Import
 ![Image 1](step3.png)
 
-### 3.依照步驟2完成所有監控設定
+### 依照步驟2完成所有監控設定
 
 ![Image 1](dashboard.png)
 

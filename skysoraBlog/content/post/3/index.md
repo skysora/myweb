@@ -24,7 +24,7 @@ GUI介面 | X | O | O |  O  |
 切割單位 | 整段、句子 | 句子、字 | 整段、詞 |  說話者  |
 調整設定 | 無 | 普 | 最多 |  少  |
 
-### Azure
+## Azure
 ![Image 1](Azure_Speech.png)
 * 優點：回傳的比較詳細
 * 缺點：沒有GUI介面，要自己刻
@@ -130,7 +130,7 @@ Confidence| The confidence score of the entry, from 0.0 (no confidence) to 1.0 (
     ]
 
 ```
-### GCP
+## GCP
 ![Image 1](GCP_Speech.png)
 * 優點：有GUI可以對每個設定做調整，如果沒有要接API比較方便
 * 缺點：輸出feature比較少
@@ -178,7 +178,7 @@ Confidence| The confidence score of the entry, from 0.0 (no confidence) to 1.0 (
     ]
 ```
 
-### AWS
+## AWS
 
 ![Image 1](AWS_Speech.png)
 * 優點：有GUI可以對每個設定做調整，如果沒有要接API比較方便
@@ -248,7 +248,7 @@ Confidence| The confidence score of the entry, from 0.0 (no confidence) to 1.0 (
 ```
 
 
-### Vocol
+## Vocol
 
 ![Image 1](Vocal_speech.png)
 
